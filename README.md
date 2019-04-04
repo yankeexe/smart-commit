@@ -1,10 +1,4 @@
-<div align="center">
-  <a href="https://github.com/sbimochan/smart-commit">
-    <img style="width: 128px;" src="assets/logo.svg">
-  </a>
-  <br/>
-</div>
-
+![smart commit logo](assets/logo.svg)
 
 # Smart Commit
 
@@ -15,7 +9,7 @@ Create a commit prefixed with the current branch name.
 Run this command on terminal.
 
 ```shell
-curl https://raw.githubusercontent.com/sbimochan/smart-commit/master/commit -o /usr/local/bin/commit && chmod +x /usr/local/bin/commit
+sudo curl https://raw.githubusercontent.com/sbimochan/smart-commit/master/commit -o /usr/local/bin/commit && sudo chmod +x /usr/local/bin/commit
 ```
 
 ## Usage
